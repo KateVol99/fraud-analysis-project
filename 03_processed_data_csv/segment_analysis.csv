@@ -1,0 +1,5 @@
+segment_name;total_transactions;fraud_count;avg_amount;fraud_rate
+High;104984;304;395,29;0.29
+Low;758816;1220;14,12;0.16
+Medium;263152;408;101,30;0.16
+Very High;12276;36;1773,97;0.29
